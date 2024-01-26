@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+	<advance width="663"/>
+	<unicode hex="0054"/>
+	<outline>
+		<contour>
+			<point x="454" y="-16" type="curve"/>
+			<point x="457" y="128"/>
+			<point x="470" y="348"/>
+			<point x="492" y="491" type="curve"/>
+			<point x="454" y="521"/>
+			<point x="314" y="551"/>
+			<point x="256" y="550" type="curve" smooth="yes"/>
+			<point x="232" y="407"/>
+			<point x="214" y="205"/>
+			<point x="217" y="48" type="curve"/>
+			<point x="251" y="16"/>
+			<point x="416" y="-27"/>
+		</contour>
+		<contour>
+			<point x="97" y="514" type="curve"/>
+			<point x="290" y="533"/>
+			<point x="463" y="543"/>
+			<point x="681" y="523" type="curve"/>
+			<point x="688" y="573"/>
+			<point x="691" y="645"/>
+			<point x="676" y="709" type="curve"/>
+			<point x="472" y="733"/>
+			<point x="238" y="742"/>
+			<point x="60" y="724" type="curve"/>
+			<point x="51" y="675"/>
+			<point x="70" y="561"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>x</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>x</string>
+		</dict>
+	</lib>
+</glyph>

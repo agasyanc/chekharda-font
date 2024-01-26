@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fita-cy" format="2">
+	<advance width="558"/>
+	<unicode hex="0473"/>
+	<outline>
+		<contour>
+			<point x="278" y="-18" type="curve" smooth="yes"/>
+			<point x="426" y="-18"/>
+			<point x="518" y="127"/>
+			<point x="518" y="273" type="curve" smooth="yes"/>
+			<point x="518" y="405"/>
+			<point x="435" y="523"/>
+			<point x="297" y="523" type="curve" smooth="yes"/>
+			<point x="139" y="523"/>
+			<point x="38" y="378"/>
+			<point x="38" y="211" type="curve" smooth="yes"/>
+			<point x="38" y="73"/>
+			<point x="138" y="-18"/>
+		</contour>
+		<contour>
+			<point x="285" y="101" type="curve"/>
+			<point x="227" y="101"/>
+			<point x="199" y="164"/>
+			<point x="199" y="226" type="curve" smooth="yes"/>
+			<point x="199" y="315"/>
+			<point x="247" y="421"/>
+			<point x="308" y="421" type="curve" smooth="yes"/>
+			<point x="364" y="421"/>
+			<point x="389" y="362"/>
+			<point x="389" y="295" type="curve" smooth="yes"/>
+			<point x="389" y="204"/>
+			<point x="350" y="101"/>
+		</contour>
+		<contour>
+			<point x="173" y="187" type="curve" smooth="yes"/>
+			<point x="274" y="254"/>
+			<point x="320" y="154"/>
+			<point x="418" y="234" type="curve" smooth="yes"/>
+			<point x="463" y="271"/>
+			<point x="478" y="386"/>
+			<point x="409" y="346" type="curve" smooth="yes"/>
+			<point x="316" y="292"/>
+			<point x="268" y="391"/>
+			<point x="173" y="335" type="curve" smooth="yes"/>
+			<point x="140" y="315"/>
+			<point x="115" y="148"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iu-cy" format="2">
+	<advance width="1057"/>
+	<unicode hex="042E"/>
+	<outline>
+		<contour>
+			<point x="210" y="241" type="curve"/>
+			<point x="325" y="278"/>
+			<point x="416" y="292"/>
+			<point x="550" y="287" type="curve"/>
+			<point x="555" y="330"/>
+			<point x="425" y="385"/>
+			<point x="410" y="435" type="curve"/>
+			<point x="359" y="439"/>
+			<point x="287" y="436"/>
+			<point x="188" y="423" type="curve"/>
+			<point x="182" y="380"/>
+			<point x="190" y="268"/>
+		</contour>
+		<component base="O" xOffset="321"/>
+		<component base="I"/>
+	</outline>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downArrow" format="2">
+	<advance width="760"/>
+	<unicode hex="2193"/>
+	<outline>
+		<contour>
+			<point x="428" y="-24" type="curve"/>
+			<point x="438" y="202"/>
+			<point x="483" y="439"/>
+			<point x="556" y="689" type="curve"/>
+			<point x="484" y="707"/>
+			<point x="399" y="708"/>
+			<point x="347" y="695" type="curve"/>
+			<point x="304" y="492"/>
+			<point x="277" y="200"/>
+			<point x="307" y="-22" type="curve"/>
+			<point x="351" y="-35"/>
+			<point x="375" y="-39"/>
+		</contour>
+		<contour>
+			<point x="268" y="-76" type="curve"/>
+			<point x="307" y="-77"/>
+			<point x="352" y="-72"/>
+			<point x="391" y="-57" type="curve"/>
+			<point x="326" y="97"/>
+			<point x="258" y="254"/>
+			<point x="188" y="355" type="curve"/>
+			<point x="139" y="336"/>
+			<point x="73" y="286"/>
+			<point x="40" y="250" type="curve"/>
+			<point x="120" y="162"/>
+			<point x="212" y="24"/>
+		</contour>
+		<contour>
+			<point x="445" y="-79" type="curve"/>
+			<point x="537" y="49"/>
+			<point x="612" y="134"/>
+			<point x="718" y="234" type="curve"/>
+			<point x="689" y="268"/>
+			<point x="632" y="314"/>
+			<point x="581" y="341" type="curve"/>
+			<point x="506" y="255"/>
+			<point x="388" y="66"/>
+			<point x="337" y="-38" type="curve"/>
+			<point x="371" y="-60"/>
+			<point x="395" y="-70"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="El-cy" format="2">
+	<advance width="763"/>
+	<unicode hex="041B"/>
+	<outline>
+		<contour>
+			<point x="487" y="-17" type="curve"/>
+			<point x="551" y="-20"/>
+			<point x="678" y="6"/>
+			<point x="730" y="32" type="curve"/>
+			<point x="685" y="256"/>
+			<point x="600" y="550"/>
+			<point x="519" y="723" type="curve"/>
+			<point x="439" y="729"/>
+			<point x="311" y="725"/>
+			<point x="240" y="697" type="curve"/>
+			<point x="322" y="525"/>
+			<point x="440" y="155"/>
+		</contour>
+		<contour>
+			<point x="206" y="-18" type="curve"/>
+			<point x="300" y="174"/>
+			<point x="354" y="331"/>
+			<point x="393" y="535" type="curve"/>
+			<point x="355" y="582"/>
+			<point x="313" y="577"/>
+			<point x="257" y="595" type="curve"/>
+			<point x="209" y="437"/>
+			<point x="122" y="287"/>
+			<point x="-4" y="114" type="curve"/>
+			<point x="51" y="52"/>
+			<point x="150" y="-1"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>x</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>x</string>
+		</dict>
+	</lib>
+</glyph>

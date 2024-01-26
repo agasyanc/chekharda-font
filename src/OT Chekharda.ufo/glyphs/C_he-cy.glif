@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Che-cy" format="2">
+	<advance width="727"/>
+	<unicode hex="0427"/>
+	<outline>
+		<contour>
+			<point x="453" y="322" type="curve"/>
+			<point x="453" y="356"/>
+			<point x="478" y="432"/>
+			<point x="449" y="441" type="curve"/>
+			<point x="360" y="327"/>
+			<point x="244" y="417"/>
+			<point x="325" y="663" type="curve"/>
+			<point x="292" y="696"/>
+			<point x="144" y="723"/>
+			<point x="86" y="722" type="curve"/>
+			<point x="-55" y="237"/>
+			<point x="244" y="136"/>
+		</contour>
+		<contour>
+			<point x="656" y="-18" type="curve"/>
+			<point x="664" y="210"/>
+			<point x="685" y="439"/>
+			<point x="730" y="663" type="curve"/>
+			<point x="697" y="696"/>
+			<point x="549" y="723"/>
+			<point x="491" y="722" type="curve"/>
+			<point x="449" y="540"/>
+			<point x="416" y="246"/>
+			<point x="419" y="46" type="curve"/>
+			<point x="453" y="14"/>
+			<point x="618" y="-29"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>o</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pe-cy" format="2">
+	<advance width="753"/>
+	<unicode hex="041F"/>
+	<outline>
+		<contour>
+			<point x="286" y="-20" type="curve"/>
+			<point x="294" y="209"/>
+			<point x="310" y="400"/>
+			<point x="354" y="624" type="curve"/>
+			<point x="321" y="657"/>
+			<point x="174" y="684"/>
+			<point x="116" y="683" type="curve"/>
+			<point x="74" y="502"/>
+			<point x="46" y="244"/>
+			<point x="49" y="44" type="curve"/>
+			<point x="82" y="12"/>
+			<point x="248" y="-30"/>
+		</contour>
+		<contour>
+			<point x="683" y="-19" type="curve"/>
+			<point x="691" y="210"/>
+			<point x="707" y="401"/>
+			<point x="752" y="625" type="curve"/>
+			<point x="719" y="658"/>
+			<point x="571" y="685"/>
+			<point x="513" y="684" type="curve"/>
+			<point x="472" y="505"/>
+			<point x="443" y="245"/>
+			<point x="446" y="45" type="curve"/>
+			<point x="480" y="13"/>
+			<point x="645" y="-29"/>
+		</contour>
+		<contour>
+			<point x="126" y="506" type="curve"/>
+			<point x="332" y="515"/>
+			<point x="514" y="544"/>
+			<point x="732" y="524" type="curve"/>
+			<point x="740" y="574"/>
+			<point x="753" y="652"/>
+			<point x="728" y="710" type="curve"/>
+			<point x="524" y="734"/>
+			<point x="267" y="734"/>
+			<point x="89" y="717" type="curve"/>
+			<point x="80" y="667"/>
+			<point x="92" y="538"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
+</glyph>

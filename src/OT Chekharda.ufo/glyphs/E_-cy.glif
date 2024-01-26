@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E-cy" format="2">
+	<advance width="699"/>
+	<unicode hex="0404"/>
+	<outline>
+		<contour>
+			<point x="402" y="272" type="curve"/>
+			<point x="421" y="292"/>
+			<point x="428" y="375"/>
+			<point x="422" y="408" type="curve"/>
+			<point x="329" y="417"/>
+			<point x="275" y="420"/>
+			<point x="227" y="417" type="curve"/>
+			<point x="213" y="379"/>
+			<point x="76" y="338"/>
+			<point x="80" y="305" type="curve"/>
+			<point x="207" y="309"/>
+			<point x="293" y="300"/>
+		</contour>
+		<component base="C"/>
+	</outline>
+</glyph>

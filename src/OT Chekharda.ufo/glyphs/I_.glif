@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+	<advance width="344"/>
+	<unicode hex="0049"/>
+	<anchor x="229" y="736" name="top"/>
+	<outline>
+		<contour>
+			<point x="276" y="-18" type="curve"/>
+			<point x="284" y="210"/>
+			<point x="299" y="439"/>
+			<point x="344" y="663" type="curve"/>
+			<point x="311" y="696"/>
+			<point x="163" y="723"/>
+			<point x="105" y="722" type="curve"/>
+			<point x="64" y="543"/>
+			<point x="36" y="246"/>
+			<point x="39" y="46" type="curve"/>
+			<point x="73" y="14"/>
+			<point x="238" y="-29"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
+</glyph>

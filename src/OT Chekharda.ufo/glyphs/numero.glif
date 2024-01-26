@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numero" format="2">
+	<advance width="1130"/>
+	<unicode hex="2116"/>
+	<outline>
+		<contour>
+			<point x="758" y="181" type="curve"/>
+			<point x="852" y="194"/>
+			<point x="998" y="199"/>
+			<point x="1084" y="193" type="curve"/>
+			<point x="1086" y="226"/>
+			<point x="1085" y="263"/>
+			<point x="1080" y="299" type="curve"/>
+			<point x="953" y="314"/>
+			<point x="804" y="316"/>
+			<point x="741" y="307" type="curve"/>
+			<point x="738" y="276"/>
+			<point x="746" y="213"/>
+		</contour>
+		<component base="N"/>
+		<component base="o" xScale="0.727" yScale="0.727" xOffset="740" yOffset="346"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>o</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>
