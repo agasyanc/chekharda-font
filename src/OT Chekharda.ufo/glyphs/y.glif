@@ -20,10 +20,10 @@
 		</contour>
 		<contour>
 			<point x="180" y="28" type="curve"/>
-			<point x="252" y="20"/>
-			<point x="354" y="50"/>
-			<point x="403" y="70" type="curve"/>
-			<point x="342" y="237"/>
+			<point x="259" y="31"/>
+			<point x="346" y="50"/>
+			<point x="403" y="81" type="curve"/>
+			<point x="342" y="248"/>
 			<point x="299" y="364"/>
 			<point x="269" y="517" type="curve"/>
 			<point x="212" y="522"/>

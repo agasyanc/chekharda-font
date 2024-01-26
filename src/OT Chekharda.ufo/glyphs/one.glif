@@ -11,11 +11,15 @@
 			<point x="497" y="695"/>
 			<point x="349" y="724"/>
 			<point x="291" y="723" type="curve"/>
-			<point x="249" y="544"/>
-			<point x="216" y="246"/>
-			<point x="220" y="46" type="curve"/>
-			<point x="253" y="14"/>
-			<point x="418" y="-28"/>
+			<point x="251" y="554"/>
+			<point x="220" y="279"/>
+			<point x="220" y="80" type="curve" smooth="yes"/>
+			<point x="220" y="46" type="line"/>
+			<point x="250" y="17"/>
+			<point x="386" y="-20"/>
+			<point x="441" y="-20" type="curve" smooth="yes"/>
+			<point x="447" y="-20"/>
+			<point x="452" y="-19"/>
 		</contour>
 		<contour>
 			<point x="150" y="414" type="curve"/>
